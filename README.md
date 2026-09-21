@@ -1,6 +1,6 @@
 # CoTRD
 
-[PDF](https://iamjasonfeng.github.io/CoTRD/chain_of_though_reinforcement_decoding.pdf)
+[PDF](https://iamjasonfeng.github.io/CoTRD/chain_of_thought_reinforcement_decoding.pdf)
 
 Abstract
 
