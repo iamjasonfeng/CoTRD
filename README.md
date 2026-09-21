@@ -1,5 +1,7 @@
 # CoTRD
 
+[PDF](https://iamjasonfeng.github.io/CoTRD/chain_of_though_reinforcement_decoding.pdf)
+
 Abstract
 
 Chain-of-Thought Reinforcement Decoding (CoTRD) is one of my solutions for the ARC-AGI 3 Kaggle
